@@ -1,3 +1,5 @@
-x + y = 20 
 x = 10 
 y = 10
+
+print(x)
+print(y)
